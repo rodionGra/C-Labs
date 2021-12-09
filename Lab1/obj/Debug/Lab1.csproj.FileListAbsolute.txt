@@ -1,0 +1,6 @@
+/Users/rodion.hramushniak/Documents/C/Lab1/Labs/Lab1/bin/Debug/Lab1.exe
+/Users/rodion.hramushniak/Documents/C/Lab1/Labs/Lab1/bin/Debug/Lab1.pdb
+/Users/rodion.hramushniak/Documents/C/Lab1/Labs/Lab1/obj/Debug/Lab1.csprojAssemblyReference.cache
+/Users/rodion.hramushniak/Documents/C/Lab1/Labs/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache
+/Users/rodion.hramushniak/Documents/C/Lab1/Labs/Lab1/obj/Debug/Lab1.exe
+/Users/rodion.hramushniak/Documents/C/Lab1/Labs/Lab1/obj/Debug/Lab1.pdb
